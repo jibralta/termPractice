@@ -9,6 +9,7 @@
 # Downey, CA
 
 ### Restaurants
+- South Pacific :fish:
 
 ### Local Attractions
 - Disneyland
