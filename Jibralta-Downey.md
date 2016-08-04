@@ -11,6 +11,9 @@
 ### Restaurants
 
 ### Local Attractions
+- Disneyland
+- beaches
+
 
 ## Remote Attractions
 
